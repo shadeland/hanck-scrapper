@@ -1,0 +1,25 @@
+{
+  "name": "scrapper",
+  "version": "1.0.0",
+  "description": "hancock scrapper",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "mongodb": "^2.2.26",
+    "twit": "^2.2.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadeland/hanck-scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shadeland/hanck-scrapper/issues"
+  },
+  "homepage": "https://github.com/shadeland/hanck-scrapper#readme"
+}
